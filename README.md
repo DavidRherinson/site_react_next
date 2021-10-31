@@ -1,3 +1,6 @@
+Mesmo site do outro projeto, refeito com react e next
+link para teste: www.https://site-react-next.vercel.app
+
 COMO RODAR O PROJETO BAIXADO
 Instalar todas as dependências indicada pelo package.json
 ### npm install
